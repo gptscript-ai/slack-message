@@ -1,6 +1,6 @@
 Description: Sends a Slack message to a particular channel.
-
-Args: channel: The name of the channel to send the message to.
-Args: message: The message to send.
+Credential: github.com/gptscript-ai/credential as slackToken with GPTSCRIPT_SLACK_TOKEN as env and "Please provide your Slack token:" as message
+Param: channel: The name of the channel to send the message to.
+Param: message: The message to send.
 
 #!${GPTSCRIPT_TOOL_DIR}/bin/gptscript-go-tool "${GPTSCRIPT_INPUT}"
