@@ -1,3 +1,7 @@
+# ARCHIVED
+
+This repo has been archived and is no longer maintained. We recommend using the Slack tools in [gptscript-ai/integrations](https://github.com/gptscript-ai/integrations).
+
 # slack-message
 
 This is a simple GPTScript tool to send a Slack message to a channel.
